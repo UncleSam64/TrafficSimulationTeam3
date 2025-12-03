@@ -1992,3 +1992,94 @@ Memory consumption went from 96.3 MB to 95.4 MB.
 Total: 9.727831 ms (FindLiveObjects: 0.619834 ms CreateObjectMapping: 0.736709 ms MarkObjects: 7.191835 ms  DeleteObjects: 1.177845 ms)
 
 Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 855.722927 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '0e114b9e1b14cd489818f99f0b59ef80') in 0.11524514 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.105325 seconds.
+  path: Assets/Oxxo
+  artifactKey: Guid(539992099389f481bbc91a23a3306f8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oxxo using Guid(539992099389f481bbc91a23a3306f8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '95ce158e06756350e999d049d1eeb0be') in 0.000699545 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.913709 seconds.
+  path: Assets/Oxxo
+  artifactKey: Guid(539992099389f481bbc91a23a3306f8b) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Oxxo using Guid(539992099389f481bbc91a23a3306f8b) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'b115d822fb721720863cfb3f215e078a') in 0.003669677 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.894534 seconds.
+  path: Assets/Oxxo/rojo-oxxo.jpg
+  artifactKey: Guid(8bb296396aca945649e3dccac01e2563) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Oxxo/rojo-oxxo.jpg using Guid(8bb296396aca945649e3dccac01e2563) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'b9d6b7657c5119df7f5c696fefec78cd') in 0.138059222 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/Oxxo/banner-oxxo.jpg
+  artifactKey: Guid(16375df4ef5aa40689f5fba62a8df5df) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Oxxo/banner-oxxo.jpg using Guid(16375df4ef5aa40689f5fba62a8df5df) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'b23df7abc458c42ee9b45feb1a98e6d6') in 0.014598004 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/Oxxo/hangar_concrete_floor_diff_4k (1).jpg
+  artifactKey: Guid(7f4d98b9aeab44776a6d9434a967d12c) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Oxxo/hangar_concrete_floor_diff_4k (1).jpg using Guid(7f4d98b9aeab44776a6d9434a967d12c) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'e29b27e0c9c533cd9883cc0ad68cbb13') in 0.017991711 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/Oxxo/amarillo-oxxo.jpg
+  artifactKey: Guid(23f55fbc534c4445695e79940d180935) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Oxxo/amarillo-oxxo.jpg using Guid(23f55fbc534c4445695e79940d180935) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '756083747e91a269608986dded200267') in 0.017699426 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.641299 seconds.
+  path: Assets/Oxxo/amarillo-oxxo.jpg
+  artifactKey: Guid(23f55fbc534c4445695e79940d180935) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oxxo/amarillo-oxxo.jpg using Guid(23f55fbc534c4445695e79940d180935) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bd9ed1264a048dc19bc606a6aea3398b') in 0.130716829 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000088 seconds.
+  path: Assets/Oxxo/rojo-oxxo.jpg
+  artifactKey: Guid(8bb296396aca945649e3dccac01e2563) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oxxo/rojo-oxxo.jpg using Guid(8bb296396aca945649e3dccac01e2563) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3b96d763c8f81cc1347280abf1e1c4cc') in 0.013410432 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000099 seconds.
+  path: Assets/Oxxo/hangar_concrete_floor_diff_4k (1).jpg
+  artifactKey: Guid(7f4d98b9aeab44776a6d9434a967d12c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oxxo/hangar_concrete_floor_diff_4k (1).jpg using Guid(7f4d98b9aeab44776a6d9434a967d12c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '64c44e8b872344d60ae4c099a65ca2f3') in 0.037199357 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000091 seconds.
+  path: Assets/Oxxo/oxxo-logo.jpg
+  artifactKey: Guid(8eeb68ff5c1ce43dfa61dc61e3e8f15a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oxxo/oxxo-logo.jpg using Guid(8eeb68ff5c1ce43dfa61dc61e3e8f15a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5733555c2c4aca2f6a9d2649e09a77f6') in 0.008724775 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
