@@ -101,6 +101,10 @@ public class VehicleAgent : MonoBehaviour
         // --- Frenar por coche enfrente ---
         if (carAhead && distAhead < safeDistance)
         {
+            if(distAhead < safeDistance/3)
+            {
+                speed = 0f;
+            }
             Brake(brakingForce);
             return;
         }
